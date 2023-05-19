@@ -16,7 +16,10 @@ Here's a list of things I'm currently working with:
 
 Always looking to improve and learn. Currently, I'm exploring:
 
-* LLMs
+## NEXT GOALS
+
+
+* Implement Imagebind with Stable Diffusion and DeepFloyd
 
 ## 📫 How to reach me 
 
