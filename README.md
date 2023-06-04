@@ -14,12 +14,14 @@ Here's a list of things I'm currently working with:
 
 ## 🌱 I'm currently learning 
 
-Always looking to improve and learn. Currently, I'm exploring:
+Always looking to improve and learn. Currently, I'm currently working on:
+* minigpt-4 batch! I want to remove the pain of captioning images for training Stable Diffusion models for everyone who wants to train them. 
 
 ## NEXT GOALS
 
 
 * Implement Imagebind with Stable Diffusion and DeepFloyd
+* Tinker with alphafold and DNA diffusion
 
 ## 📫 How to reach me 
 
