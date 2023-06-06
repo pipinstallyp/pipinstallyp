@@ -20,6 +20,7 @@ Always looking to improve and learn. Currently, I'm currently working on:
 ## NEXT GOALS
 
 
+* Create transformer keyboard project
 * Implement Imagebind with Stable Diffusion and DeepFloyd
 * Tinker with alphafold and DNA diffusion
 
