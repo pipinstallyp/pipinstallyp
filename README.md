@@ -1,6 +1,6 @@
 # Hi there, I'm pipinstallyp 👋
 
-![GitHub followers](https://img.shields.io/github/followers/pipinstallyp?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/pipinstallyp?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pipinstallyp?style=social)
 
 I'm a daytime software engineer and this profile is dedicated to AI stuff. I've been working with Stable Diffusion since August 22nd, 2023. 
 
